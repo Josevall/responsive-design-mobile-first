@@ -361,7 +361,7 @@ main {
     min-width: 320px;
     height: 50vh;
     background-image: url("./assets/img/bitcoinbaby2x.jpg");
-    position: center;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
